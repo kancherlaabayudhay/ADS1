@@ -1,0 +1,21 @@
+wrapper classes= like for int integer
+                          short short 
+                          long long
+ to make java 100% object orianted we use  wrapper classes
+
+==> object ---- number ----boolean------character
+ number ------byte----short-integer---long--float---double
+
+==> object class: it is the supermost class in java.
+              every class that we defined will extend this class by default
+
+
+==>java.lang== contains all other packages so defaulted we include it
+
+pascal casing: every word started with upper case  ex: StudentsAre Inside A class
+camelcasing: word should be in lower case ex:studentsAre Inside A Class
+
+
+==>
+
+
